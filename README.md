@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Tanya Stephens Portfolio
+
+This is my professional portfolio, it uses AWS and ReactJS.
