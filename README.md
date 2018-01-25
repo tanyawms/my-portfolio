@@ -1,6 +1,6 @@
 # Tanya Stephens Portfolio
 
-This is my professional portfolio, it uses AWS and ReactJS.
+Welcome to my professional portfolio, it uses AWS and ReactJS.
 
 ##Technologies Used
 Atom
